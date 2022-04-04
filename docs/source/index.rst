@@ -13,6 +13,3 @@ Development Environment (https://github.com/ei8/avatar-server-pack)
    prerequisites
    database
    local files
-
-
-After installing the prerequisites, clone the .. _avatar-server-pack:https://github.com/ei8/avatar-server-pack repo 
