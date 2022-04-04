@@ -8,7 +8,11 @@ Local Files Setup
   * Copy all ``.db`` files
   * Paste all to ``avatar-server-pack\avatars\prod\sample``
 
-* Open ``.env`` file and modify
+* Open ``.env`` file
+* Change the ``AVATAR_IP`` and ``D23_IP`` to your own local machine's IP Address
+* Open ``d23-variables.env``
+* Delete ``BASE_PATH`` values (it should show as ``BASE_PATH=``)
 * Run Docker Compose
 
   * ``docker-compose -f docker-compose.yml up``
+
