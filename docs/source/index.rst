@@ -1,6 +1,5 @@
-Avatar Installation Guide
+ei8 Development Environment Setup
 ===================================
-Development Environment (https://github.com/ei8/avatar-server-pack)
 
 .. note::
 
@@ -11,5 +10,7 @@ Development Environment (https://github.com/ei8/avatar-server-pack)
    :maxdepth: 2
 
    prerequisites
-   database
-   local files
+   githuburls
+   setup
+   runningtheapplication
+   localdebugging

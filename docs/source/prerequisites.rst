@@ -1,8 +1,7 @@
-PREREQUISITES
+Prerequisites
 =============
 
-
-Required1
+Required
 ---------
 * Windows 10 Pro (https://www.microsoft.com/en-us/windowsforbusiness/windows-10-pro)
 * IDE (https://visualstudio.microsoft.com/vs/)
