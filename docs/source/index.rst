@@ -1,4 +1,4 @@
-ei8 Development Environment Setup
+Avatar Development Environment Setup
 ===================================
 
 .. note::
