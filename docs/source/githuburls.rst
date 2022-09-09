@@ -1,5 +1,5 @@
-GitHub URLs to be used
+GitHub Repositories
 ======================
 
-* avatar-server-pack - http://github.com/ei8/avatar-server-pack
-* cortex-diary - https://github.com/ei8/cortex-diary
+#.  **avatar-server-pack**  http://github.com/ei8/avatar-server-pack
+#.  **cortex-diary**  https://github.com/ei8/cortex-diary
