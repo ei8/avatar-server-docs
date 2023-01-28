@@ -35,11 +35,7 @@ ArangoDB
 
 #.  Install ``ArangoDB 3.3.7-1_win64.exe`` from https://download.arangodb.com/arangodb33/Windows7/x86_64/index.html.
 
-
-#.  Keep a blank password for now.
-
-
-#.  Launch ArangoDB.
+#.  Navigate to http://127.0.0.1:8529/ ArangoDB in your browser.
 
     * Username → **root**
     * Password → **blank**
@@ -52,10 +48,10 @@ ArangoDB
         .. image:: images/Picture6.png
             :width: 400
 
-#.  Browse to the path ``C:/Program Files/arangoDB 3.3.7/etc/arangodb3``.
+#.  Using File Explorer, browse to the path ``C:/Program Files/arangoDB 3.3.7/etc/arangodb3``.
 
 
-#.  Update the endpoint in the ``arango.conf`` file to ``tcp://0.0.0.0:8529``.
+#.  Open the file ``arango.conf`` and update the endpoint to ``tcp://0.0.0.0:8529``.
 
         .. image:: images/Picture7.png
             :width: 400
@@ -81,6 +77,6 @@ Docker Desktop
         .. image:: images/Picture9.png
             :width: 400
 
-#.  Open the ``variables.env`` file from ``\prod\sample`` and update the contents from the dowloadable `variables.env <https://github.com/erwintayag/avatar-server-docs-1/blob/main/docs/source/reference_files/variables.env>`_.
+#.  Open the ``variables.env`` file from ``C:\ei8\avatars\prod\sample`` and update the contents from the dowloadable `variables.env <https://github.com/ei8/avatar-server-pack/blob/master/avatars/prod/sample/variables.env>`_.
 
-#.  Start docker → ``docker-compose -f docker-compose.yml up``.
+#.  Using the Command Prompt, start the **sample** avatar by navigating to ``C:\ei8\avatars\prod\sample`` and using the command ``docker-compose -f docker-compose.yml up``.
