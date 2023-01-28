@@ -12,15 +12,15 @@ Avatar Server Pack
 #.  Browse to the ``avatars/prod/sample`` directory.
 
 
-#.  Check and edit a few parameters (**LOCAL_IP**, **BASE_PATH**) in the below files:
+#.  Update the values in the following files:
 
 
-    * .env
+    * .env - set **AVATAR_IP** and **D23_IP** to local IP address
 
         .. image:: images/Picture2.png
             :width: 400
 
-    * d23-variables.env
+    * d23-variables.env - set **BASE_PATH** to empty string
 
         .. image:: images/Picture3.png 
             :width: 400
