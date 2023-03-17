@@ -11,6 +11,8 @@ Required
     * WSL 2 (https://docs.microsoft.com/en-us/windows/wsl/install-win10)  
 #.  ArangoDB version 3.3.7 (https://download.arangodb.com/)
 #.  Postman (https://www.postman.com/)
+#.  Traefik (https://github.com/traefik/traefik/releases?expanded=true&page=4&q=v1.7.3)
+#.  d# Plugins
 
 Optional
 ---------
